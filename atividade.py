@@ -1,6 +1,6 @@
 lista = []
 
-for c in range(3):
+for c in range(15):
     usuario = []
 
     altura = float(input('Digite a sua altura: '))
